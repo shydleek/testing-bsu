@@ -17,7 +17,7 @@ Prepared by **Matsvei Shydlouski**, student of the MMF (9-th group)
 | 3 | Type _First Name_, _Second Name_ and try click to _Join_ | Nothing happened, site put error messages (Please enter a valid email. Passwords must be at least 8 characters. Please add more characters.)                         
 | 4 | Type _Email_, _Password_ and try click to _Join_ | User authorized 
 
-## Test Case №2 (Add Man Jacket to favourites)
+## Test Case №2 (Add Man Jacket to favorites)
 
 ### Preconditions: 
 
